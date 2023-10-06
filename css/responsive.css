@@ -93,8 +93,11 @@
   }
 
   .service_section .box .img-box {
-    justify-content: flex-start;
-    margin-bottom: 15px;
+    text-align: center;
+  }
+  .img-box img {
+    max-width: 100%;
+    display: block;
   }
 }
 
